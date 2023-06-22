@@ -6,7 +6,7 @@ function NavTabs({ currentPage, handlePageChange }) {
   return (
     
     <nav class="navbar navbar-light bg-dark p-4" >
-      <a class="navbar-brand text-white h1" href="#">Portfolio</a>
+      <a class="navbar-brand text-white h1" href="#">Jiasi's  Portfolio</a>
       <ul className="nav justify-content-end">
         <li className="nav-item">
           <a 
