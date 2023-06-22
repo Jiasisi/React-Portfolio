@@ -3,12 +3,12 @@ import applicationList from '../applicationList';
 
 
 
-export default function Portfolio() {
+export default function Project() {
   const githubUrl = 'Github Repo';
   const deployedLink = 'Deployed Link';
   return (
     <div class="p-4 ">
-      <h3>Portfolio</h3>
+      <h3>Project</h3>
       {applicationList.map(application => (
         <div class='p-4'>
           <div class='card'>
